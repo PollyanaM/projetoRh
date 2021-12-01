@@ -1,0 +1,33 @@
+body{
+    background-image: url('img/background.JPG');
+}
+
+.card{
+    margin: 5%;
+    padding: 2%;
+    background-color: rgba(255,255,255,0.8);
+    border: solid 2px #0943ad;
+}
+
+.navbar-light{
+    padding: 3%;
+}
+
+.navbar-light h1{
+    font-family: Arial;
+    color: #0943ad;
+}
+
+.table thead tr{
+    background-color: #0943ad;
+    color: white;
+}
+
+
+th{
+    width: 3%;
+}
+
+#credito{
+    color: #ffffff;
+}
